@@ -29,16 +29,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/` in your browser. The app will automatically reload if you change any of the source files.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - PrimeNG documentation: https://primefaces.org/primeng/showcase/#/
-- Angular documentation: https://angular.io/docs
+- Angular documentation: https://angular.dev/docs
 
